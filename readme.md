@@ -1,4 +1,4 @@
-This is a practice I found in youtube.
+This is a `tailwind` practice I found in youtube.
 Kodus to the original author. [link](https://youtu.be/Vp6GC3jKG20)
 
 ```
